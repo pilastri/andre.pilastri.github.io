@@ -11,6 +11,15 @@
     <atom:link href="/andrepilastri.github.io/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Image Segmentation: A Complex Network Approach</title>
+      <link>https://pilastri.github.io/andrepilastri.github.io/publication/usnccm_15/</link>
+      <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://pilastri.github.io/andrepilastri.github.io/publication/usnccm_15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Computer Vision Projects</title>
       <link>https://pilastri.github.io/andrepilastri.github.io/project/computer_vision/</link>
       <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
