@@ -20,6 +20,91 @@
     </item>
     
     <item>
+      <title>Shopper Tracking</title>
+      <link>https://pilastri.github.io/andrepilastri.github.io/project/shopper_tracking/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://pilastri.github.io/andrepilastri.github.io/project/shopper_tracking/</guid>
+      <description>
+
+&lt;!---
+sites:
+https://gohugo.io/templates/shortcode-templates/#single-positional-example-youtube
+
+https://gohugo.io/content-management/shortcodes/#youtube
+
+https://behavioranalyticsretail.com/technologies-tracking-people/
+
+https://www.google.com/search?rlz=1C5CHFA_enPT783PT784&amp;ei=mJ1uXMqSOYWXlwTJ1ru4BQ&amp;q=retail+expert+for+Computer+Vision+Projects&amp;oq=retail+expert+for+Computer+Vision+Projects&amp;gs_l=psy-ab.3..35i39.1493.1493..1860...0.0..0.111.111.0j1......0....1..gws-wiz.g8eVvYNH4aI
+
+https://www.rsrresearch.com/research/location-analytics-new-data-new-opportunities
+
+https://emerj.com/ai-sector-overviews/virtual-mirrors-and-computer-vision/
+
+https://towardsdatascience.com/people-tracking-using-deep-learning-5c90d43774be
+
+https://blog.karna.ai/how-ai-will-revolutionize-eye-tracking-technology-70604bafcd8c/?source=search_post
+
+Interested? Contact me or view this [video](wwww.youtube.com) on how to use Deep Learning to enhance your process of Picking.
+
+Current technologies being used to create location-tracking and location-based systems include:
+--&gt;
+
+&lt;h3 id=&#34;what-s-tracking-technology&#34;&gt;What’s Tracking Technology?&lt;/h3&gt;
+
+&lt;p&gt;Tracking technology is the convergence of several technologies that can be merged to create systems that track people, inventory, livestock or ­vehicle fleets.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;An example of a use case is People Tracking Technology:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;People Tracking includes detection, recognition, and predictive analytics of objects in motion. The complexity depends on the location of objects (i.e. store or street), the dimension of objects (i.e. a person or image), and details of the image (i.e. facial recognition or facial demographics).&lt;/p&gt;
+
+&lt;p&gt;Anonymous location-based data serves a wide variety of sectors, including Retail, Buildings, Hospitals, Transportation, and Smart Cities.&lt;/p&gt;
+
+&lt;h3 id=&#34;can-tracking-solutions-can-be-divided-into-three-broad-categories&#34;&gt;Can Tracking Solutions can be divided into three broad categories?&lt;/h3&gt;
+
+&lt;p&gt;It is Sensors Edge-Solutions, Device-Based Tracking, and Advanced Technologies.&lt;/p&gt;
+
+&lt;p&gt;Technologies include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Vision Analytics&lt;/li&gt;
+&lt;li&gt;3D Stereo Video Analytics&lt;/li&gt;
+&lt;li&gt;Monocular Video Analytics&lt;/li&gt;
+&lt;li&gt;Thermal Imaging&lt;/li&gt;
+&lt;li&gt;Infrared Beams&lt;/li&gt;
+&lt;li&gt;Time of Flight&lt;/li&gt;
+&lt;li&gt;Structured Light.&lt;/li&gt;
+&lt;li&gt;Raspberry Pi&lt;/li&gt;
+&lt;li&gt;WiFi (Wide Area Network) Tracking&lt;/li&gt;
+&lt;li&gt;UWB (Ultra Wide Band) | Radar Imaging&lt;/li&gt;
+&lt;li&gt;BLE (Bluetooth Low Energy) Beacons&lt;/li&gt;
+&lt;li&gt;GPS (Global Positioning System) Personal Tracker&lt;/li&gt;
+&lt;li&gt;RFID (Radio Frequency Identification) Tags &amp;amp; Tracking&lt;/li&gt;
+&lt;li&gt;Bio-Metrics (Facial Recognition &amp;amp; Anonymous Demographics)&lt;/li&gt;
+&lt;li&gt;3D Spatial Learning (Augmented Reality)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;shopper-tracking-refers-to-tracking-people-objects-in-motion&#34;&gt;Shopper Tracking refers to tracking people (objects) in motion&lt;/h3&gt;
+
+&lt;p&gt;People Counting refers to technologies solutions that “count” the number of people that either pass a virtual line or stay inside a specified zone.&lt;/p&gt;
+
+&lt;p&gt;In addition to detecting the object, the solution needs to recognize the object. There are different levels of object recognition.&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/lTYsa-CAxzc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;People Counting Solutions generate linear data if the object is detected, or not. Some technologies recognize the direction of the object (path), and provide In/Out counts and Dwell Time.&lt;/p&gt;
+
+&lt;p&gt;The business benefits for people counting relate to measuring the number of visitors, sales conversion, store comparison, and mall analytics.&lt;/p&gt;
+
+&lt;p&gt;Interested? If you need additional information, please contact me via email.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Computer Vision Projects</title>
       <link>https://pilastri.github.io/andrepilastri.github.io/project/computer_vision/</link>
       <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
@@ -144,9 +229,11 @@ The operator executes the prior steps until the batch of orders is completed.&lt
 
 &lt;p&gt;How can we use the Blockchain to potentiate the National Energy Network?&lt;/p&gt;
 
-&lt;p&gt;In this context, I and &lt;a href=&#34;https://www.linkedin.com/in/danilo-jodas/&#34; target=&#34;_blank&#34;&gt;Danilo Jodas&lt;/a&gt; and more some friends decided to take part in the Challenge REN and we created:&lt;/p&gt;
+&lt;p&gt;In this context, my friends and I decided to take part in the Challenge REN and we created:&lt;/p&gt;
 
 &lt;p&gt;Dinamis platform is a marketplace for the energy sector that integrates producers, traders and consumers in a single environment of peer-to-peer (P2P) transactions. The proposal aims at the concentration of all the intermediaries of the energy sector in a single platform that uses the blockchain technology.&lt;/p&gt;
+
+&lt;p&gt;Interested? Contact me or view this &lt;a href=&#34;https://www.youtube.com/watch?v=ZdrGtg7-tfs&#34; target=&#34;_blank&#34;&gt;video&lt;/a&gt; on how to use Blockchain to enhance energy marketplace.&lt;/p&gt;
 </description>
     </item>
     
@@ -177,6 +264,15 @@ The operator executes the prior steps until the batch of orders is completed.&lt
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0100</pubDate>
       
       <guid>https://pilastri.github.io/andrepilastri.github.io/publication/data_mining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconstruction Algorithms in Compressive Sensing: An Overview</title>
+      <link>https://pilastri.github.io/andrepilastri.github.io/publication/dsie16/</link>
+      <pubDate>Wed, 03 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://pilastri.github.io/andrepilastri.github.io/publication/dsie16/</guid>
       <description></description>
     </item>
     

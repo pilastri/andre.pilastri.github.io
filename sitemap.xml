@@ -12,6 +12,14 @@
     
     <url>
     
+      <loc>https://pilastri.github.io/andrepilastri.github.io/project/shopper_tracking/</loc>
+      <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://pilastri.github.io/andrepilastri.github.io/project/computer_vision/</loc>
       <lastmod>2019-01-25T00:00:00+00:00</lastmod>
     </url>
@@ -108,6 +116,14 @@
     
     <url>
     
+      <loc>https://pilastri.github.io/andrepilastri.github.io/publication/dsie16/</loc>
+      <lastmod>2016-02-03T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://pilastri.github.io/andrepilastri.github.io/publication/pps/</loc>
       <lastmod>2014-08-01T00:00:00+01:00</lastmod>
     </url>
@@ -127,6 +143,15 @@
     
       <loc>https://pilastri.github.io/andrepilastri.github.io/publication_types/4/</loc>
       <lastmod>2018-03-26T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pilastri.github.io/andrepilastri.github.io/tags/algorithms/</loc>
+      <lastmod>2016-02-03T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -162,6 +187,15 @@
     
       <loc>https://pilastri.github.io/andrepilastri.github.io/tags/complex-networks/</loc>
       <lastmod>2019-02-20T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pilastri.github.io/andrepilastri.github.io/tags/compressive-sensing/</loc>
+      <lastmod>2016-02-03T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -215,7 +249,7 @@
     <url>
     
       <loc>https://pilastri.github.io/andrepilastri.github.io/tags/deep-learning/</loc>
-      <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+      <lastmod>2019-02-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -259,6 +293,15 @@
     
     <url>
     
+      <loc>https://pilastri.github.io/andrepilastri.github.io/tags/marketplace/</loc>
+      <lastmod>2018-08-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://pilastri.github.io/andrepilastri.github.io/tags/pps/</loc>
       <lastmod>2014-08-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
@@ -268,8 +311,17 @@
     
     <url>
     
+      <loc>https://pilastri.github.io/andrepilastri.github.io/tags/package/</loc>
+      <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://pilastri.github.io/andrepilastri.github.io/project/</loc>
-      <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+      <lastmod>2019-02-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -288,6 +340,15 @@
     
       <loc>https://pilastri.github.io/andrepilastri.github.io/tags/python/</loc>
       <lastmod>2019-01-18T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pilastri.github.io/andrepilastri.github.io/tags/reconstruction/</loc>
+      <lastmod>2016-02-03T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -365,7 +426,25 @@
     <url>
     
       <loc>https://pilastri.github.io/andrepilastri.github.io/tags/</loc>
-      <lastmod>2018-08-01T00:00:00+01:00</lastmod>
+      <lastmod>2016-02-03T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pilastri.github.io/andrepilastri.github.io/tags/tracking/</loc>
+      <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://pilastri.github.io/andrepilastri.github.io/tags/yolo/</loc>
+      <lastmod>2019-02-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

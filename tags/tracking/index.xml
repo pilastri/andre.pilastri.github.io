@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tracking on André Pilastri</title>
+    <link>https://pilastri.github.io/andrepilastri.github.io/tags/tracking/</link>
+    <description>Recent content in Tracking on André Pilastri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 - André Pilastri</copyright>
+    <lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://pilastri.github.io/andrepilastri.github.io/tags/tracking/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Shopper Tracking</title>
+      <link>https://pilastri.github.io/andrepilastri.github.io/project/shopper_tracking/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://pilastri.github.io/andrepilastri.github.io/project/shopper_tracking/</guid>
+      <description>What’s Tracking Technology? Tracking technology is the convergence of several technologies that can be merged to create systems that track people, inventory, livestock or ­vehicle fleets.
+An example of a use case is People Tracking Technology:
+People Tracking includes detection, recognition, and predictive analytics of objects in motion. The complexity depends on the location of objects (i.e. store or street), the dimension of objects (i.e. a person or image), and details of the image (i.</description>
+    </item>
+    
+  </channel>
+</rss>
